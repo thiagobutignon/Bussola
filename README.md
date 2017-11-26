@@ -1,6 +1,6 @@
 ATENCÃO
 
-Utilizar o software Framer.js para abrir os scripts http://framerjs.com/
+Utilizamos coffeeScript(JAVASCRIPT) para o desenvolvimento rodando na plataforma FRAMER http://framerjs.com/ 
 
 Blockchain programado em solidity em:
 https://remix.ethereum.org/#version=soljson-v0.4.18+commit.9cf6e910.js
